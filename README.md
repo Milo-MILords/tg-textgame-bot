@@ -78,11 +78,13 @@ Registered "Lords" can interact with the bot by typing **`panel`** in the group 
 Here's how a missile attack summary looks after being sent to the channel:
 
 > ☠️ The country USA has launched a missile attack on the country Russia
-> <blockquote>
+    
 > 🏢• City: Moscow
+> 
 > 🚀• Missile Type: Tomahawk
+> 
 > 🚀• Number of Missiles Fired: 5
-> </blockquote>
+
 > 🔥Responsible for this attack: [Commander's Name]
 
 ### 📜 License
