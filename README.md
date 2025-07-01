@@ -46,6 +46,13 @@ Key actions include:
     * Set your `ADMIN_ID` values (a list of Telegram user IDs with bot control permissions).
     * Set the `CHANNEL_ID` for statements and `CHANNEL_ID1` for attack/march broadcasts.
 
+4.  **Run the bot:**
+    To start the bot, run the following command in your terminal:
+    ```bash
+    python halfbot.en.py
+    ```
+    The bot will now be running and listening for commands. Note that if you close the terminal, the bot will stop. For continuous operation, you should run the script in a persistent environment like `screen` or deploy it on a server.
+    
 ### 🧪 Usage
 
 #### 🔧 Admin Commands
