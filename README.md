@@ -32,7 +32,7 @@ Key actions include:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/Milo-MILords/tg-textgame-bot.git](https://github.com/Milo-MILords/tg-textgame-bot.git)
+    git clone https://github.com/Milo-MILords/tg-textgame-bot.git
     cd tg-textgame-bot
     ```
 
