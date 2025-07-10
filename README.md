@@ -96,3 +96,6 @@ Here's how a missile attack summary looks after being sent to the channel:
 
 ### 📜 License
 This project is licensed under the **MIT License**. Feel free to use, modify, and expand upon it for your own gameplay!
+
+### 🙏Donate
+TON: `UQBT8Vmy9dPEeGpvsJY7_hMaQOOojhzjIkvyQqdDi993KqHA`
