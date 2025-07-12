@@ -166,5 +166,12 @@ This project is licensed under the **MIT License**. Feel free to use, modify, an
 
 ---
 
-### 🙏 Donate
-TON: `UQBT8Vmy9dPEeGpvsJY7_hMaQOOojhzjIkvyQqdDi993KqHA`
+### 💰 Support & Donate
+
+If you enjoyed this project and want to support its continued development, you can contribute through the TON blockchain:
+
+```
+TON Wallet: UQBT8Vmy9dPEeGpvsJY7_hMaQOOojhzjIkvyQqdDi993KqHA
+```
+
+Every little bit helps and is deeply appreciated 🙏
