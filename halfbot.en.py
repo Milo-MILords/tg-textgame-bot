@@ -66,6 +66,11 @@ def command_handler(message):
             bot.reply_to(message, "❌ Military marching has been disabled.")
 
 
+@bot.message_handler(commands=['start'])
+def set_lord(message):
+    bot.reply_to(message, "Welcome")
+
+
 @bot.message_handler(commands=['setlord'])
 def set_lord(message):
     if is_group_chat(message):
