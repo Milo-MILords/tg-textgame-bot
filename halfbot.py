@@ -67,6 +67,11 @@ def command_handler(message):
             bot.reply_to(message, "❌ بخش لشکرکشی غیرفعال شد.")
 
 
+@bot.message_handler(commands=['start'])
+def set_lord(message):
+    bot.reply_to(message, "خوش آمدید")
+
+
 @bot.message_handler(commands=['setlord'])
 def set_lord(message):
     if is_group_chat(message):
